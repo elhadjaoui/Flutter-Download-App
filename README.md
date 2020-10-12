@@ -3,15 +3,15 @@ Flutter app for downloading videos and images from Instagram, WhatsApp, Facebook
 
 
 <p align="center">
-  <img src="razqi1.png" alt="Flutter-Download-App" title="Screenshot">
+  <img src="Documentation/Artboard – 2.png" alt="Flutter-Download-App" title="Screenshot">
 </p>
 
 <p align="center">
-  <img src="razqi2.png" alt="Flutter-Download-App" title="Screenshot">
+  <img src="Documentation/Artboard – 3.png" alt="Flutter-Download-App" title="Screenshot">
 </p>
 
 <p align="center">
-  <img src="razqi3.png" alt="Flutter-Download-App" title="Screenshot">
+  <img src="Documentation/Artboard – 4.png" alt="Flutter-Download-App" title="Screenshot">
 </p>
 
 
