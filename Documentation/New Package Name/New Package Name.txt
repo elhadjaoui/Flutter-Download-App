@@ -1,0 +1,5 @@
+************El Hadjaoui************
+
+1- go to your root project 
+2- right click
+3- select 'Replace in path' & select 'Replace All' after adding your new package name .
